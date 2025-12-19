@@ -1,4 +1,4 @@
-# Assignment 2: Descriptive Statistics and Lists
+Descriptive Statistics and Lists in Bioinformatics
 
 Descriptive Statistics and Lists is a project consisting of a collection of 3 data files and a python program that when run from the terminal, will calculate a series of descriptive statistics from a specified column within any one of the data files.
 
